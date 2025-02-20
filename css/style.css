@@ -1,81 +1,81 @@
 body {
-    background-color: black;
-    color: white;
-    font-family: Helvetica, Arial, sans-serif;
-    margin: 0;
+  background-color: black;
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
 }
 
 .container {
-    background: url('../i/jasonfavors_500.jpg') 50% 0 no-repeat;
-    margin: 60px auto;
-    margin-bottom: 120px;
-    text-align: center;
-    width: 960px;
+  background: url('../i/jasonfavors_500.jpg') 50% 0 no-repeat;
+  margin: 60px auto;
+  margin-bottom: 120px;
+  text-align: center;
+  width: 960px;
 }
 
 .container h1 {
-    font-size: 48px;
-    letter-spacing: 20px;
-    margin: 0;
-    padding-top: 244px;
-    text-transform: uppercase;
+  font-size: 48px;
+  letter-spacing: 20px;
+  margin: 0;
+  padding-top: 244px;
+  text-transform: uppercase;
 }
 
 p.tagline {
-    font-size: 20px;
-    font-weight: lighter;
-    margin: 10px 0;
+  font-size: 20px;
+  font-weight: lighter;
+  margin: 10px 0;
 }
 
 ul.social {
-    list-style: none;
-    height: 24px;
-    margin: 0 auto;
-    margin-top: 200px;
-    padding: 0;
-    width: 246px;
+  list-style: none;
+  height: 24px;
+  margin: 0 auto;
+  margin-top: 200px;
+  padding: 0;
+  width: 246px;
 }
 
 ul.social li {
-    float: left;
+  float: left;
 }
 
 ul.social li a {
-    display: block;
-    height: 24px;
-    margin-right: 24px;
-    width: 30px;
+  display: block;
+  height: 24px;
+  margin-right: 24px;
+  width: 30px;
 }
 
 ul.social li a.twitter {
-    background: url('../i/icons_24.png');
+  background: url('../i/icons_24.png');
 }
 
 ul.social li a.instagram {
-    background: url('../i/icons_24.png') 169px;
+  background: url('../i/icons_24.png') 169px;
 }
 
 ul.social li a.linkedin {
-    background: url('../i/icons_24.png') 120px;
+  background: url('../i/icons_24.png') 120px;
 }
 
 ul.social li a.github {
-    background: url('../i/icons_24.png') 73px;
+  background: url('../i/icons_24.png') 73px;
 }
 
 ul.social li a.email {
-    background: url('../i/icons_24.png') 30px;
-    margin-right: 0px;
+  background: url('../i/icons_24.png') 30px;
+  margin-right: 0px;
 }
 
 hr { border: 1px solid #222; }
 
 footer {
-    color: #333;
-    font-size: 80%;
+  color: #333;
+  font-size: 80%;
 }
 
 footer p {
-    margin: 0;
-    padding: 15px;
+  margin: 0;
+  padding: 15px;
 }
